@@ -1,7 +1,3 @@
-Voici une version mise à jour du `README.md`, incluant la section pour installer les dépendances avec `requirements.txt` :
-
----
-
 # Number Memory Game
 
 The Number Memory Game is a Python-based memory training game built using the Tkinter library. The goal of the game is to test and improve your ability to remember and recall numbers displayed briefly on the screen.
